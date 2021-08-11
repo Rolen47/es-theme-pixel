@@ -228,9 +228,10 @@ license:		creative commons CC-BY-NC-SA
 			<pos>0.766 0.322</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.366 0.480</maxSize>
-			<delay>3</delay>
+			<delay>1.5</delay>
 			<showSnapshotNoVideo>true</showSnapshotNoVideo>
 			<showSnapshotDelay>true</showSnapshotDelay>
+			<effect>none</effect>
 		</video>
 		<!--<image name="md_marquee">
 			<pos>0.57 0.035</pos>
