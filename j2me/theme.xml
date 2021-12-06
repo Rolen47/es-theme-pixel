@@ -1,10 +1,10 @@
 <theme>
-    <formatVersion>3</formatVersion>
+    <formatVersion>7</formatVersion>
     <include>./../pixel.xml</include>
 	
 	<variables>
-		<themeColor>ACACAC</themeColor>
-		<selectColor>ffffff</selectColor>
+		<themeColor>C41D00</themeColor>
+		<selectColor>C0D0C0</selectColor>
 	</variables>
 
 	<view name="system">
@@ -56,8 +56,9 @@
 		<textlist name="gamelist">
 			<selectedColor>${selectColor}</selectedColor>
 		</textlist>
+		
 
-
+			
 
 
 	</view>

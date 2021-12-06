@@ -3,8 +3,8 @@
     <include>./../pixel.xml</include>
 	
 	<variables>
-		<themeColor>ACACAC</themeColor>
-		<selectColor>ffffff</selectColor>
+		<themeColor>009AC7</themeColor>
+		<selectColor>77C2D8</selectColor>
 	</variables>
 
 	<view name="system">
@@ -56,7 +56,6 @@
 		<textlist name="gamelist">
 			<selectedColor>${selectColor}</selectedColor>
 		</textlist>
-
 
 
 
