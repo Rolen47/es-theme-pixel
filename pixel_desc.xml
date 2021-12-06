@@ -178,19 +178,19 @@ license:		creative commons CC-BY-NC-SA
 			<!--<scrollSound>./art/flipper.wav</scrollSound>-->
 		</textlist>
 		
-		<!---<image name="Bottom Console Image" extra="true">
+		<!--<image name="Bottom Console Image" extra="true">
 			<tile>false</tile>
 			<pos>0.902 0.781</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.114 0.202</maxSize>
-		</image>--->
+		</image>-->
 		
 
 		<text name="md_lbl_playcount">
 			<color>ffffff</color>
 			<pos>1 1</pos>
-			<!--- This will enable Player Count under the screenshot --->
-			<!---<pos>0.686 0.573</pos>--->
+			<!-- This will enable Player Count under the screenshot -->
+			<!--<pos>0.686 0.573</pos>-->
 			<fontSize>0.03</fontSize>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/font.ttf</fontPath>
@@ -200,8 +200,8 @@ license:		creative commons CC-BY-NC-SA
 		<text name="md_playcount">
 			<color>ffffff</color>
 			<pos>1 1</pos>
-			<!--- This will enable Player Count under the screenshot.--->
-			<!---<pos>0.830 0.567</pos>--->
+			<!-- This will enable Player Count under the screenshot.-->
+			<!--<pos>0.830 0.567</pos>-->
 			<fontSize>0.03</fontSize>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/font.ttf</fontPath>
